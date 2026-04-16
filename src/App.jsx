@@ -16,7 +16,8 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>CI/CD</h1>
+          <p>Today we have learned about CI/CD using github actions and everthing is cleared.</p>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
